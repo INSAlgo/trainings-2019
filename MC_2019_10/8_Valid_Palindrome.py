@@ -7,7 +7,7 @@ class Solution:
             code = ord(k)
             if not ((code >= ord('a') and code <= ord('z'))
                     or (code >= ord('0') and code <= ord('9'))):
-                removed_set.add(k)
+                removed_et.add(k)
         for c in removed_set:
             s = s.replace(c, '')
         return s == s[::-1]
