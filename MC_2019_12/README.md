@@ -14,7 +14,7 @@ https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cy
 https://www.hackerrank.com/challenges/circular-palindromes/problem
 
 # 4
-https://www.hackerrank.com/challenges/bigger-is-greater/problem
+https://www.hackerrank.com/challenges/game-of-two-stacks/problem
 
 # 5
 https://leetcode.com/problems/complement-of-base-10-integer/
