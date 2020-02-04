@@ -86,7 +86,9 @@ def left_right_sort(L):
     L is a list of points,
     sorts L from left to right
     '''
-    quick_sort(L, point_left_point)
+    L = sorted(L, key=lambda x: -x.imag)
+    L = sorted(L, key=lambda x: x.real)
+    return L
 
 # Displays
 
